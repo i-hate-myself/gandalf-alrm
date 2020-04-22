@@ -1,0 +1,13 @@
+D:\code\sax\sax\sax\bin\Debug\netcoreapp3.1\sax.exe
+D:\code\sax\sax\sax\bin\Debug\netcoreapp3.1\sax.deps.json
+D:\code\sax\sax\sax\bin\Debug\netcoreapp3.1\sax.runtimeconfig.json
+D:\code\sax\sax\sax\bin\Debug\netcoreapp3.1\sax.runtimeconfig.dev.json
+D:\code\sax\sax\sax\bin\Debug\netcoreapp3.1\sax.dll
+D:\code\sax\sax\sax\bin\Debug\netcoreapp3.1\sax.pdb
+D:\code\sax\sax\sax\obj\Debug\netcoreapp3.1\sax.csprojAssemblyReference.cache
+D:\code\sax\sax\sax\obj\Debug\netcoreapp3.1\sax.csproj.CoreCompileInputs.cache
+D:\code\sax\sax\sax\obj\Debug\netcoreapp3.1\sax.AssemblyInfoInputs.cache
+D:\code\sax\sax\sax\obj\Debug\netcoreapp3.1\sax.AssemblyInfo.cs
+D:\code\sax\sax\sax\obj\Debug\netcoreapp3.1\sax.dll
+D:\code\sax\sax\sax\obj\Debug\netcoreapp3.1\sax.pdb
+D:\code\sax\sax\sax\obj\Debug\netcoreapp3.1\sax.genruntimeconfig.cache

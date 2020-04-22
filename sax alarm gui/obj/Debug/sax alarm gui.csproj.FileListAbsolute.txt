@@ -1,0 +1,14 @@
+D:\code\ooga\sax alarm gui\bin\Debug\sax alarm gui.exe.config
+D:\code\ooga\sax alarm gui\bin\Debug\sax alarm gui.exe.manifest
+D:\code\ooga\sax alarm gui\bin\Debug\sax alarm gui.application
+D:\code\ooga\sax alarm gui\bin\Debug\sax alarm gui.exe
+D:\code\ooga\sax alarm gui\bin\Debug\sax alarm gui.pdb
+D:\code\ooga\sax alarm gui\obj\Debug\sax_alarm_gui.Form1.resources
+D:\code\ooga\sax alarm gui\obj\Debug\sax_alarm_gui.Properties.Resources.resources
+D:\code\ooga\sax alarm gui\obj\Debug\sax alarm gui.csproj.GenerateResource.cache
+D:\code\ooga\sax alarm gui\obj\Debug\sax alarm gui.csproj.CoreCompileInputs.cache
+D:\code\ooga\sax alarm gui\obj\Debug\sax alarm gui.exe.manifest
+D:\code\ooga\sax alarm gui\obj\Debug\sax alarm gui.application
+D:\code\ooga\sax alarm gui\obj\Debug\sax alarm gui.exe
+D:\code\ooga\sax alarm gui\obj\Debug\sax alarm gui.pdb
+D:\code\ooga\sax alarm gui\obj\Debug\sax alarm gui.csprojAssemblyReference.cache
